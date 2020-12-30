@@ -2,7 +2,7 @@
 layout: post
 title: How 2 rob a bank - E03 How 2 rig an election
 categories: [podcast, how2robabank]
-comments: true
+comments: false
 ---
 In episode three of How 2 rob a bank podcast, Bia and I discuss some of the key mathematical concepts in voting, focusing on political elections in some Western countries, as well as Brexit.
 
