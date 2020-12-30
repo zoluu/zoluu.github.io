@@ -2,7 +2,7 @@
 layout: post
 title: How 2 rob a bank - E01 How 2 make a decision
 excerpt: "The very first episode of my podcast, How 2 rob a bank - available on Spotify, Apple Podcasts and more."
-categories: [podcast]
+categories: [podcast, how2robabank]
 comments: true
 ---
 
