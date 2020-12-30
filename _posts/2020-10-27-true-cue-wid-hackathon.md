@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "TrueCue Women in Data Hackathon"
+exerpt: I participated in the [TrueCue Women in Data Hackathon](https://truecue.com/womenindata/hackathon/), part of a campaign to provide information, advice and upskilling opportunties to encourage women to seek careers in the tech industry.
 categories: [stem, womeninstem, hackathon]
 image:
-  feature: img/2020-10-27-true-cue-wid-hackathon-certificate.jpg
+  feature: <img src="../../img/2020-10-27-true-cue-wid-hackathon-certificate.jpg" width="100%" style="max-width:1079px" />
+  
 ---
 
 In the past two weeks, I participated in the [TrueCue Women in Data Hackathon](https://truecue.com/womenindata/hackathon/), part of a campaign to provide information, advice and upskilling opportunties to encourage women to seek careers in the tech industry.
