@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Motivation, Python, Java, VBA, Power BI, Tableau
-percentage: 100, 50, 50, 70, 70, 40
+aspects: Python, Java, VBA, Power BI, Tableau
+percentage: 50, 60, 70, 70, 50
