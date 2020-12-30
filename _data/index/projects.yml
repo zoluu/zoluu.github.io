@@ -4,3 +4,6 @@
 
 - name: Women in Data Hackathon 2020
   descr: Explored data in relation to COVID-19 by comparing policies implemented by countries. Modelled and predicted the growth of infections.
+
+- name: Optimal team generation using AI
+  descr: Conducted research on exact and heuristic methods to solve a variant of the skill vehicle routing problem. Designed and implemented a genetic algorithm in Java which substantially improved four out of five key objectives.
