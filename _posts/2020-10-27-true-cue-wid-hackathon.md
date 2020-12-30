@@ -11,4 +11,4 @@ I was teamed up with ladies based in the UK, Spain and Hong Kong to analyse a da
 
 Overall, it was challenging experience, especially trying to organise virtual meetings with teammates located across the world, however despite timezone challenges and unresponsive teammates, the remaining team and I managed to power through and submitted a presentation as one of the 37 teams.
 
-<img src="../../img/2020-10-27-true-cue-wid-hackathon-certificate.jpg" width="100%" style="max-width:1079px" />
+<img src="../../img/2020-10-27-true-cue-wid-hackathon-certificate.png" width="100%" style="max-width:1079px" />
