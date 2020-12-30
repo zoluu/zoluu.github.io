@@ -1,4 +1,6 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-  image: pong.png
-  github: https://github.com/renyuanz/leonids
+- name: How 2 rob a bank
+  descr: Co-founded the podcast "How 2 rob a bank" with the initiative of discussing topics lying on the intersection of mathematics, data science, philosophy and human nature.
+  link: http://how2robabank.co.uk/
+
+- name: Women in Data Hackathon 2020
+  descr: Explored data in relation to COVID-19 by comparing policies implemented by countries. Modelled and predicted the growth of infections.
