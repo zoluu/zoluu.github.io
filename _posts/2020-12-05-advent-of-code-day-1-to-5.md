@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advent of Code 2020
-categories: [podcast, how2robabank]
+categories: [python]
 comments: false
 ---
 This is the first year I am doing the [Advent of Code](https://adventofcode.com/2020)! Advent of Code is an Advent calendar with small programming puzzles that can be solved in any programming language. It's a great way to practise programming and develop problem solving skills, plus the problems form a story to make things more interesting! Here's my attempt at the first few days of the Advent of Code.
