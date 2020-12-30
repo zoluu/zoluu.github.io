@@ -3,8 +3,6 @@ layout: post
 title: "TrueCue Women in Data Hackathon"
 categories: [womeninstem, hackathon, datascience]
 ---
-I participated in the [TrueCue Women in Data Hackathon](https://truecue.com/womenindata/hackathon/), part of a campaign to provide information, advice and upskilling opportunties to encourage women to seek careers in the tech industry.
-
 In the past two weeks, I participated in the [TrueCue Women in Data Hackathon](https://truecue.com/womenindata/hackathon/), part of a campaign to provide information, advice and upskilling opportunties to encourage women to seek careers in the tech industry.
 
 I was teamed up with ladies based in the UK, Spain and Hong Kong to analyse a dataset on COVID-19. We were given the opportunity to improve our analytcs capabilities and presentation skills, as well as speak to women working in the Tech industry, which learning more about the global pandemic through data. As part of the analysis, I practised my python skills and refamiliarised myself with Tableau to both understand and visualise the COVID-19 situation.
